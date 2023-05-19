@@ -1,4 +1,4 @@
-# GRIP-DataScience
+# GRIP Task 1-DataScience
 Predictions_Using_Linear_Regression-One_Varaible-
 In this sample project we are going to predict the scores based on the number of hours of study using Linear Regression in One Variable.
 
